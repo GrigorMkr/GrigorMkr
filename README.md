@@ -38,38 +38,10 @@ const grigor = {
 
 Frontend-разработчик с фокусом на аккуратные интерфейсы, понятную архитектуру и пользовательский опыт.
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,vite,webpack,git,npm" alt="stack" />
-</p>
-
-### Core Technologies
-
-| Category | Technology |
-| --- | --- |
-| Language | TypeScript |
-| UI | React |
-| Build | Vite |
-| Routing | React Router DOM |
-| State | Redux Toolkit |
-| React-Redux | react-redux |
-| HTTP | Axios |
-| Maps | Leaflet |
-| SEO | React Helmet Async |
-| Styling | classnames |
-
-### Dev Tools
-
-- **Tests:** `Vitest`, `@testing-library/react`, `@testing-library/jest-dom`, `@testing-library/user-event`
-- **Linting:** `ESLint`, `@typescript-eslint`, `eslint-plugin-react-hooks`, `eslint-plugin-react-refresh`
-- **Mocks:** `axios-mock-adapter`, `redux-mock-store`, `faker`
-- **Test Environment:** `jsdom`
-
 ## HTML Academy Certificates
 
-- [HTML и CSS. Профессиональная вёрстка сайтов](./assets/certificates/html-css-professional-layout.pdf) (`25 июня 2025`)
-- [JavaScript. Профессиональная разработка веб-интерфейсов](./assets/certificates/javascript-professional-web-interfaces.pdf) (`26 сентября 2025`)
+- [HTML и CSS. Профессиональная вёрстка сайтов](./assets/certificates/html-css-professional-layout.pdf)
+- [JavaScript. Профессиональная разработка веб-интерфейсов](./assets/certificates/javascript-professional-web-interfaces.pdf)
 - [JavaScript. Архитектура клиентских приложений](./assets/certificates/javascript-client-app-architecture.pdf)
 - [React. Разработка сложных клиентских приложений](./assets/certificates/react-complex-client-apps.pdf)
 
@@ -90,6 +62,27 @@ Frontend-разработчик с фокусом на аккуратные ин
     <img src="./assets/certificates/react-complex-client-apps.png" width="46%" alt="React. Разработка сложных клиентских приложений" />
   </a>
 </p>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,vite,webpack,git,npm" alt="stack" />
+</p>
+
+### Core Technologies
+
+| Category | Technology |
+| --- | --- |
+| Language | TypeScript |
+| UI | React |
+| Build | Vite |
+| Routing | React Router DOM |
+| State | Redux Toolkit |
+| React-Redux | react-redux |
+| HTTP | Axios |
+| Maps | Leaflet |
+| SEO | React Helmet Async |
+| Styling | classnames |
 
 ## Portfolio
 
