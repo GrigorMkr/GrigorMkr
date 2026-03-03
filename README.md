@@ -101,8 +101,8 @@ Frontend-разработчик с фокусом на аккуратные ин
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GrigorMkr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigorMkr&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GrigorMkr&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigorMkr&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
