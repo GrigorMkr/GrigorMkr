@@ -66,11 +66,6 @@ Frontend-разработчик с фокусом на аккуратные ин
 - **Mocks:** `axios-mock-adapter`, `redux-mock-store`, `faker`
 - **Test Environment:** `jsdom`
 
-## Portfolio
-
-- Resume: [career.htmlacademy.ru/resume](https://career.htmlacademy.ru/resume)
-- GitHub: [github.com/GrigorMkr](https://github.com/GrigorMkr)
-
 ## HTML Academy Certificates
 
 - [HTML и CSS. Профессиональная вёрстка сайтов](./assets/certificates/html-css-professional-layout.pdf) (`25 июня 2025`)
@@ -96,11 +91,16 @@ Frontend-разработчик с фокусом на аккуратные ин
   </a>
 </p>
 
+## Portfolio
+
+- Resume: [career.htmlacademy.ru/resume](https://career.htmlacademy.ru/resume)
+- GitHub: [github.com/GrigorMkr](https://github.com/GrigorMkr)
+
 ## Featured Projects
 
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
-| **Six Cities** | Сервис аренды жилья с картой, фильтрами и авторизацией | TypeScript, React, REST API | [Repo](https://github.com/GrigorMkr/2552419-six-cities) |
+| **Six Cities** | Сервис аренды жилья с картой, фильтрами и авторизацией | TypeScript, React, REST API | [Repo](https://github.com/GrigorMkr/2552419-six-cities-3) |
 | **Big Trip** | Планировщик путешествий с лентой событий | JavaScript, MVP, API | [Repo](https://github.com/GrigorMkr/2552419-big-trip-2) |
 | **Kekstagram** | Приложение для публикации и просмотра изображений | JavaScript, HTML, CSS | [Repo](https://github.com/GrigorMkr/2552419-kekstagram-2) |
 | **Sedona** | Адаптивный лендинг с интерактивными элементами | HTML, CSS, JavaScript | [Repo](https://github.com/GrigorMkr/2552419-sedona-2) |
