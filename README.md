@@ -92,8 +92,8 @@ const profile = {
 
 - Город: `Уфа`
 - Возраст: `37`
-- Email: добавлю после данных
-- Telegram: добавлю после данных
+- Email: `Grom666e@gmail.com`
+- Telegram: `https://t.me/Grigormk`
 - GitHub: `https://github.com/GrigorMkr`
 
 ---
