@@ -56,6 +56,24 @@ Frontend-разработчик с фокусом на аккуратные ин
 - [JavaScript. Архитектура клиентских приложений](./assets/certificates/javascript-client-app-architecture.pdf)
 - [React. Разработка сложных клиентских приложений](./assets/certificates/react-complex-client-apps.pdf)
 
+<p align="center">
+  <a href="./assets/certificates/html-css-professional-layout.pdf">
+    <img src="./assets/certificates/html-css-professional-layout.png" width="46%" alt="HTML и CSS. Профессиональная вёрстка сайтов" />
+  </a>
+  <a href="./assets/certificates/javascript-professional-web-interfaces.pdf">
+    <img src="./assets/certificates/javascript-professional-web-interfaces.png" width="46%" alt="JavaScript. Профессиональная разработка веб-интерфейсов" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/certificates/javascript-client-app-architecture.pdf">
+    <img src="./assets/certificates/javascript-client-app-architecture.png" width="46%" alt="JavaScript. Архитектура клиентских приложений" />
+  </a>
+  <a href="./assets/certificates/react-complex-client-apps.pdf">
+    <img src="./assets/certificates/react-complex-client-apps.png" width="46%" alt="React. Разработка сложных клиентских приложений" />
+  </a>
+</p>
+
 ## Featured Projects
 
 | Project | Description | Tech | Link |
