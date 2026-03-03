@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Grigor%20Mkrtchyan&fontSize=48&fontAlign=50&fontAlignY=38&color=0:0B1021,35:111827,70:1F2937,100:030712&animation=twinkling&fontColor=E5E7EB&desc=Frontend%20Developer%20from%20Ufa&descAlignY=60&descColor=93C5FD" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Grigor%20Mkrtchyan&fontSize=48&fontAlign=50&fontAlignY=38&color=0:6A5ACD,35:00BFFF,70:00FA9A,100:FF8C00&animation=twinkling&desc=Frontend%20Developer%20from%20Ufa&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&color=60A5FA&lines=Frontend+Developer;JavaScript+%7C+TypeScript+%7C+React;Building+clean+UI+and+fast+UX;Open+to+new+opportunities" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+%7C+TypeScript+%7C+React;Building+clean+UI+and+fast+UX;Open+to+new+opportunities" alt="typing" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Repositories-8-blueviolet?style=for-the-badge&logo=github" alt="repositories" />
   </a>
   <a href="https://career.htmlacademy.ru/resume">
-    <img src="https://img.shields.io/badge/HTML%20Academy-Resume-111827?style=for-the-badge&logoColor=white" alt="resume" />
+    <img src="https://img.shields.io/badge/HTML%20Academy-Resume-orange?style=for-the-badge" alt="resume" />
   </a>
 </p>
 
@@ -41,23 +41,23 @@ Frontend-разработчик с фокусом на аккуратные ин
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,vite,webpack,git,npm&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,vite,webpack,git,npm" alt="stack" />
 </p>
 
 ### Core Technologies
 
-| Category | Technology | Version |
-| --- | --- | --- |
-| Language | TypeScript | `5.2.2` |
-| UI | React | `18.2.0` |
-| Build | Vite | `4.4.11` |
-| Routing | React Router DOM | `6.16.0` |
-| State | Redux Toolkit | `2.2.1` |
-| React-Redux | react-redux | `9.1.0` |
-| HTTP | Axios | `1.5.1` |
-| Maps | Leaflet | `1.7.1` |
-| SEO | React Helmet Async | `1.3.0` |
-| Styling | classnames | `2.3.2` |
+| Category | Technology |
+| --- | --- |
+| Language | TypeScript |
+| UI | React |
+| Build | Vite |
+| Routing | React Router DOM |
+| State | Redux Toolkit |
+| React-Redux | react-redux |
+| HTTP | Axios |
+| Maps | Leaflet |
+| SEO | React Helmet Async |
+| Styling | classnames |
 
 ### Dev Tools
 
@@ -124,13 +124,13 @@ Frontend-разработчик с фокусом на аккуратные ин
 
 <p align="center">
   <a href="mailto:Grom666e@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Grom666e%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
+    <img src="https://img.shields.io/badge/Email-Grom666e%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://t.me/Grigormk">
-    <img src="https://img.shields.io/badge/Telegram-@Grigormk-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Grigormk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
   <a href="https://github.com/GrigorMkr">
-    <img src="https://img.shields.io/badge/GitHub-GrigorMkr-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-GrigorMkr-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
@@ -139,6 +139,6 @@ Frontend-разработчик с фокусом на аккуратные ин
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1021,35:111827,70:1F2937,100:030712" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,35:00BFFF,70:00FA9A,100:FF8C00" alt="footer" />
 </p>
 
