@@ -44,6 +44,7 @@ Frontend-разработчик с фокусом на аккуратные ин
 - [JavaScript. Профессиональная разработка веб-интерфейсов](./assets/certificates/javascript-professional-web-interfaces.pdf)
 - [JavaScript. Архитектура клиентских приложений](./assets/certificates/javascript-client-app-architecture.pdf)
 - [React. Разработка сложных клиентских приложений](./assets/certificates/react-complex-client-apps.pdf)
+- [Профессия «Фронтенд-разработчик»](./assets/certificates/frontend-developer-profession.pdf)
 
 <p align="center">
   <a href="./assets/certificates/html-css-professional-layout.pdf">
@@ -60,6 +61,12 @@ Frontend-разработчик с фокусом на аккуратные ин
   </a>
   <a href="./assets/certificates/react-complex-client-apps.pdf">
     <img src="./assets/certificates/react-complex-client-apps.png" width="46%" alt="React. Разработка сложных клиентских приложений" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/certificates/frontend-developer-profession.pdf">
+    <img src="./assets/certificates/frontend-developer-profession.png" width="46%" alt="Профессия Фронтенд-разработчик" />
   </a>
 </p>
 
